@@ -35,13 +35,13 @@ break;
 putchar(',');
 putchar(' ');
 }
-i++
+i++;
 }
-e++
+e++;
 }
-g++
+g++;
 }
-h++
+h++;
 }
 putchar('\n');
 return (0);
