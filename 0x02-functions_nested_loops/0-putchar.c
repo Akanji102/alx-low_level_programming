@@ -2,7 +2,7 @@
 
 /**
 *main- Write a program that prints _putchar
-*written by onyemagod
+*
 *Return: always 0
 */
 
