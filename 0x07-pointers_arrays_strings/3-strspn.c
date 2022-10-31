@@ -29,5 +29,3 @@ return (z);
 }
 return (z);
 }
-Footer
-
